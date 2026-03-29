@@ -117,5 +117,5 @@ This agent provides AI-generated analysis for **educational purposes only**. It 
 
 ---
 
-*Built by Sanskriti*
+*Built using *
 *Google ADK + Gemini 2.5 Flash + Cloud Run*
